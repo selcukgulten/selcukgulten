@@ -1,5 +1,5 @@
 - 👋 Hi, I’m selcukgulten2@hotmail.com
-- 👀 I’m interested in a accounting software project in Golang
+- 👀 I’m interested in a artificial intelligence software project in Golang
 - 🌱 I’m currently learning Golang
 
 <!---
